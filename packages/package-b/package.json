@@ -1,0 +1,12 @@
+{
+  "name": "package-b",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "package-a": "1.0.0",
+    "shadowizardy": "^1.0.0",
+	"package-c": "*",
+	"erez":"1.0.0"
+  },
+  "workspace": true
+}
